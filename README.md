@@ -1,9 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px; margin: 20px 0;">
-  <img src="figs/logo.png" alt="STAR Logo" width="40" />
-  <h1 style="margin: 0; font-size: 2em;">STAR</h1>
-</div>
-
-## Contents
+# Contents
 
 - [Setup & Installation](#setup--installation)
 - [Inference](#inference)
